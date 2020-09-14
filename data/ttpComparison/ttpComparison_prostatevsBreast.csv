@@ -1,0 +1,17 @@
+,AbsTimeGained,Cured,IndefiniteControl,InitialTumourSize,NCycles,RFrac,RelTimeGained,TimeToFailure,TreatmentBranch,Cancer
+0,,False,False,20.0,,0.01,,350.0,MTD,prostate
+1,25.0,False,False,20.0,2.0,0.01,7.142857142857142,375.0,0.5,prostate
+2,,False,False,35.0,,0.01,,388.0,MTD,prostate
+3,55.0,False,False,35.0,2.0,0.01,14.175257731958762,443.0,0.5,prostate
+4,,False,False,50.0,,0.01,,441.0,MTD,prostate
+5,139.0,False,False,50.0,3.0,0.01,31.519274376417233,580.0,0.5,prostate
+6,,False,False,65.0,,0.01,,546.0,MTD,prostate
+7,259.0,False,False,65.0,3.0,0.01,47.43589743589743,805.0,0.5,prostate
+0,,False,False,20.0,,0.01,,539.0,MTD,breast
+1,49.0,False,False,20.0,3.0,0.01,9.090909090909092,588.0,0.5,breast
+2,,False,False,35.0,,0.01,,590.0,MTD,breast
+3,108.0,False,False,35.0,3.0,0.01,18.305084745762713,698.0,0.5,breast
+4,,False,False,50.0,,0.01,,664.0,MTD,breast
+5,235.0,False,False,50.0,4.0,0.01,35.39156626506024,899.0,0.5,breast
+6,,False,False,65.0,,0.01,,818.0,MTD,breast
+7,451.0,False,False,65.0,4.0,0.01,55.13447432762836,1269.0,0.5,breast
